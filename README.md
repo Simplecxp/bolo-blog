@@ -2,7 +2,7 @@
 False
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">code is my life !</h4>
 <p align="center"><a title="False" target="_blank" href="https://github.com/Simplecxp/bolo-blog"><img src="https://img.shields.io/github/last-commit/Simplecxp/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Simplecxp/bolo-blog"><img src="https://img.shields.io/github/repo-size/Simplecxp/bolo-blog.svg?style=flat-square"></a>
 <a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.5 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
